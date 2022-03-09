@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">shop</string>
+    <string name="guardar">save</string>
+    <string name="volver">Back</string>
+    <string name="name">Name</string>
+    <string name="productos">products</string>
+    <string name="Descripcion">Description</string>
+    <string name="Imagen">Image</string>
+    <string name="Precio">price</string>
+    <string name="Descuento">discount</string>
+    <string name="Disponible">available</string>
+    <string name="agregar">add</string>
+    <string name="Disponibilidad">Available</string>
+    <string name="Modificar">Modify</string>
+    <string name="Cancelar">cancel</string>
+</resources>

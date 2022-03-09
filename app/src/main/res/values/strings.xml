@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tienda</string>
+    <string name="guardar">guardar</string>
+    <string name="volver">Volver</string>
+    <string name="name">Name</string>
+    <string name="productos">Productos</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="Imagen">Imagen</string>
+    <string name="Precio">Precio</string>
+    <string name="Descuento">descuento</string>
+    <string name="Disponible">Disponible</string>
+    <string name="agregar">agregar</string>
+    <string name="Disponibilidad">disponibilidad</string>
+    <string name="Modificar">Modify</string>
+    <string name="Cancelar">cancelar</string>
+</resources>
